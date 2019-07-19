@@ -134,7 +134,7 @@ STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 MEDIA_URL = '/media/'
-thething = 'hi'
+
 
 try:
     from local_settings import *
